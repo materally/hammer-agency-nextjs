@@ -11,6 +11,13 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        agencyPurple: "#8A38F5",
+        agencyGray: "#A08EAE",
+        agencyDarkGray: "#3D334D",
+      },
+      fontSize: {
+        xxs: "0.6875rem",
+        13: "0.8125rem",
       },
     },
   },
