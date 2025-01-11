@@ -42,7 +42,7 @@ export const Head = () => (
 
           <ListboxOptions
             transition
-            className="absolute z-15 mt-2 max-h-56 w-36 overflow-auto rounded-lg bg-[#251F30] py-1 text-base shadow-lg ring-1 ring-black/5 focus:outline-none data-[closed]:data-[leave]:opacity-0 data-[leave]:transition data-[leave]:duration-100 data-[leave]:ease-in sm:text-sm"
+            className="absolute z-15 mt-2 max-h-56 w-36 overflow-auto rounded-lg bg-[#251F30] py-1 text-base shadow-lg ring-1 ring-black/5 focus:outline-none data-[closed]:data-[leave]:opacity-0 data-[leave]:transition data-[leave]:duration-100 data-[leave]:ease-in sm:text-sm right-[77px]"
           >
             {sortOptions.map((option, idx) => (
               <ListboxOption
