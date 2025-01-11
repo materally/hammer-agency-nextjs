@@ -1,5 +1,3 @@
-import { Master } from "@/app/_components/all-projects/items/model";
-
 export enum LoopType {
   BRIEFING = "briefing",
   RESEARCH = "research",

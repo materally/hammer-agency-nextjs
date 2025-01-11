@@ -1,5 +1,3 @@
-import { act } from "react";
-
 const PATH = "/icon/sidebar";
 
 export const data = [
